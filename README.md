@@ -10,3 +10,6 @@
 ### Roadmap
 - add messages to a config array so it's easily changable per project
 - additional rules? 
+
+### License
+_its free_

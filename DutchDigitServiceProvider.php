@@ -2,8 +2,6 @@
 
 namespace JordanSalazar\DutchDigitServiceProvider;
 
-use Validator;
-use Carbon\Carbon;
 use Illuminate\Support\ServiceProvider;
 use App\Validators\DutchDigitValidator;
 

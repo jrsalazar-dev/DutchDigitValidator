@@ -1,4 +1,4 @@
-# Validator for dutch IBAN & BSN numbers
+# Laravel validator for dutch IBAN & BSN numbers
 
 ## How to use
 1. Require 'jordansalazar/dutchdigits' with composer

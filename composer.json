@@ -1,4 +1,7 @@
 {
     "name": "jordansalazar/dutchdigits",
-    "description": "Validator for dutch digits"
+    "description": "Validator for dutch digits",
+    "require": {
+        "laravel": ">=5.*"
+    }
 }

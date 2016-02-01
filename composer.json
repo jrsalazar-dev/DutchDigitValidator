@@ -3,6 +3,6 @@
     "description": "Validator for dutch digits",
     "version": "1.0.0",
     "require": {
-        "laravel": ">=5.*"
+        "laravel": "5.*"
     }
 }

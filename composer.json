@@ -3,6 +3,7 @@
     "description": "Validator for dutch digits",
     "version": "1.0.0",
     "require": {
-        "laravel": "5.*"
-    }
+        "laravel/framework": "5.*"
+    },
+     "license": "MIT"
 }

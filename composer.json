@@ -1,7 +1,6 @@
 {
     "name": "jordansalazar/dutchdigits",
     "description": "Validator for dutch digits",
-    "version": "1.0.0",
     "require": {
         "laravel/framework": "5.*"
     },
